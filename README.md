@@ -2,6 +2,8 @@
 ## Sharing
 - Sharing for [`AI-Driven Web Application Development` (First Principles)](./BLUEPRINT.md)
 - Sharing for [`AI-Driven Web Application Development` (E2E Workflow)](./E2E-WORKFLOW.md)
+## Sample
+AI-Driven Web Application Development: http://savloom-p86i78ah.manus.space/ (log in via _**Apple account**_)
 ## Future Development
 - Free-tier Only
   - Desktop & Mobile Developer: Deepseek UI ➡️ Manus ➡️ Publish webpage
