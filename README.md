@@ -1,2 +1,3 @@
-# kenya-digitalhub-ai-web-dev
-AI-Driven Web Application Development
+# Kenya - Digital Hub (AI-Driven Web Application Development) 
+## Reference(s)
+- [Sharing for `AI-Driven Web Application Development`](./BLUEPRINT.md)
