@@ -5,6 +5,10 @@
 ## Sample
 AI-Driven Web Application Development: http://savloom-p86i78ah.manus.space/ (log in via _**Apple account**_)
 ## Future Development
+- Gaps
+  - Common Tools
+    - Google Search
+    - App Store / Google Store
 - Methods
   - Free-tier Only
     - Desktop & Mobile Developer: Deepseek UI ➡️ Manus ➡️ Publish webpage
