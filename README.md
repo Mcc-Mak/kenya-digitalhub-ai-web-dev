@@ -5,7 +5,13 @@
 ## Sample
 AI-Driven Web Application Development: http://savloom-p86i78ah.manus.space/ (log in via _**Apple account**_)
 ## Future Development
-- Free-tier Only
-  - Desktop & Mobile Developer: Deepseek UI ➡️ Manus ➡️ Publish webpage
-- Paid-to-use
-  - Desktop & Mobile Developer: Deepseek UI ➡️ OpenCode / WorkBuddy + CrewAI connecting to DeepSeek API Key for LLM ➡️ n8n (for visualization) + GitHub Actions ➡️ Publish webpage via GitHub Page
+- Methods
+  - Free-tier Only
+    - Desktop & Mobile Developer: Deepseek UI ➡️ Manus ➡️ Publish webpage
+  - Paid-to-use
+    - Desktop & Mobile Developer: Deepseek UI ➡️ OpenCode / WorkBuddy + CrewAI connecting to DeepSeek API Key for LLM ➡️ n8n (for visualization) + GitHub Actions ➡️ Publish webpage via GitHub Page
+- Projects
+  - Game Development?
+  - Web Application Development?
+  - Learning Curve Acceleration?
+  - Media: Knowledgeable? Creative?
