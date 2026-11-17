@@ -14,8 +14,8 @@
 
 ### 1. Knowledge & Tooling Gaps
 * **Essential Platforms:**
-  * Google Search integration & optimization
-  * App Store & Google Play Store deployment
+  * Google Search
+  * App Store & Google Play Store
 * **Technical Workflows:**
   * **File Format Conversion:** Seamless conversion between HTML, Markdown, and PDF.
   * **Web Deployment:** Automated deployment of Markdown and HTML files directly to GitHub Pages.
