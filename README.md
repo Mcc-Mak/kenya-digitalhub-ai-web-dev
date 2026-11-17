@@ -9,6 +9,14 @@ AI-Driven Web Application Development: http://savloom-p86i78ah.manus.space/ (log
   - Common Tools
     - Google Search
     - App Store / Google Store
+  - Techniques
+    - File Format Conversion
+      - HTML
+      - MarkDown
+      - PDF
+    - Web Page Deployment
+      - Deploy MarkDown to GitHub Pages
+      - Deploy HTML to GitHub Pages
 - Methods
   - Free-tier Only
     - Desktop & Mobile Developer: Deepseek UI ➡️ Manus ➡️ Publish webpage
